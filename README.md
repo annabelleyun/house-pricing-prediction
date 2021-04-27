@@ -15,23 +15,32 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
  - 연립 및 단독주택 : 17개 시도 및 생활권역
  - 21.1월 공동주택 실거래가격지수 공표용 보고서_최종.pdf
 
-2. 
+2. 외부변수 추가(금리/환율 등)
+3. 정책긍/부정지수 추가
 
 ## Baseline
-
+- LR
+- LSTM
+- XGBoost
 
 ## Proposed Model
+- Transformer (attention) 기반
+
+### Experiments
 
 
-## Experiments
-### Data Cleansing
+
+## Data Cleansing
 
 
 ## Training
 
 
-## Validation
+## Validationcc
 
+ACC 지표
+- MSE
+- RMSE
 
 ## Prediction
 
