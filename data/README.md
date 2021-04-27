@@ -45,6 +45,6 @@
 
 ### 2. aptsellindex_gangnamgu.csv
 : 전국주택가격지수 중에서 강남구의 아파트 거래가격 지수
-
+date	trade_price_idx_value
 ![image](https://user-images.githubusercontent.com/49928736/116257338-ebf85280-a7ae-11eb-834f-2a1ed7fc9872.png)
 
