@@ -18,29 +18,35 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
 2. 외부변수 추가(금리/환율 등)
 3. 정책긍/부정지수 추가
 
-## Baseline
-- LR
-- LSTM
-- XGBoost
+## Data Cleansing
+
 
 ## Proposed Model
 - Transformer (attention) 기반
 
 ### Experiments
 
-
-
-## Data Cleansing
-
+## Baseline
+- LR
+- Lasso
+- Elastic
+- Kernel Gradient
+- LSTM
+- XGBoost
+- LGBM
 
 ## Training
 
 
-## Validationcc
+## Validation
 
-ACC 지표
+ACC:
+- MAE
 - MSE
 - RMSE
+
+Experimental Setup and Model Building
+
 
 ## Prediction
 
