@@ -21,8 +21,14 @@
   - git: https://github.com/denadai2/real-estate-neighborhood-prediction
 
     **summary)**
-
-  We also develop and release a framework able to now-cast housing prices from Open data, without the need for historical transactions
+    
+    1. 지난 거래에 대한 정보 없이,  오픈 데이터에서 주택 가격을 제시 할 수있는 프레임 워크를 개
+    2. 광고 크롤링 (ex; 직방) > 광고에서 사용되는 정보를 데이터에 추가
+    3. XGBoost 모델사용
+    4. Result) 각 Feature 들 중에서 가격에 영향을 주는 중요도를 매김
+**contribution**
+본 논문이이 이웃 피쳐들의 경제적 영향을 정량화 한 최초의 것이라 주장함.
+& 해당 접근 방식은 과거 구매(시계열)데이터 없이 지리적 및 사회 경제적 특성만으로 예측했다는 것에 의의를 둠
 
   **data)**
 
