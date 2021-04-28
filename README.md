@@ -1,8 +1,6 @@
 # research-house-pricing
 
 
-## Idea 
-코로나 이후 상항에 대한 집값 예측
 
 참고
 https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-%eb%b6%80%eb%8f%99%ec%82%b0-%ea%b0%80%ea%b2%a9-%ec%98%88%ec%b8%a1%ed%95%98%ea%b8%b0-4-linear-regression-%ec%82%ac%ec%9a%a9%eb%b2%95/
@@ -45,8 +43,9 @@ ACC:
 - MSE
 - RMSE
 
-Experimental Setup and Model Building
-
+Experimental Setup
+Model Structure
+Experiment Result
 
 ## Prediction
 
