@@ -2,10 +2,13 @@
 
 
 
-참고
-LSTM
+참고<br>
+LSTM 
+<br>
 https://roboreport.co.kr/%eb%94%a5%eb%9f%ac%eb%8b%9dlstm%ec%9c%bc%eb%a1%9c-%ec%95%84%ed%8c%8c%ed%8a%b8-%ec%a7%80%ec%88%98-%ec%98%88%ec%b8%a1%ed%95%98%ea%b8%b0-1-%ed%9b%88%eb%a0%a8-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%83%9d/
-LR
+<br>
+LR 
+<br>
 https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-%eb%b6%80%eb%8f%99%ec%82%b0-%ea%b0%80%ea%b2%a9-%ec%98%88%ec%b8%a1%ed%95%98%ea%b8%b0-4-linear-regression-%ec%82%ac%ec%9a%a9%eb%b2%95/
 
 ## Dataset
