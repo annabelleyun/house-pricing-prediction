@@ -34,7 +34,9 @@
 
   We collected several sources of data for the 8 largest Italian cities: Turin, Milan, Genoa, Bologna, Florence, Rome, Naples, and Palermo.
 
-
+- 국내 논문
+- LSTM 활용
+- http://www.kahps.org/data/_research/201803/15208445162558.pdf (2018)
 
     
 ## 참고자료
