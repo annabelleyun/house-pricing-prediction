@@ -34,13 +34,7 @@
 
   We collected several sources of data for the 8 largest Italian cities: Turin, Milan, Genoa, Bologna, Florence, Rome, Naples, and Palermo.
 
-  
 
-- The economic value of neighborhoods: Predicting real estate prices from the urban environment (2018)
-
-  - paper: https://arxiv.org/pdf/1808.02547v1.pdf
-
-  - git: https://github.com/denadai2/real-estate-neighborhood-prediction
 
     
 ## 참고자료
