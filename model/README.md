@@ -1,1 +1,36 @@
 모델 비교
+
+1. 시계열 transformer > for stock prediction
+
+https://towardsdatascience.com/stock-predictions-with-state-of-the-art-transformer-and-time-embeddings-3a4485237de6
+
+https://colab.research.google.com/drive/1lN4V3mC5WYogawsHbdYnue_U1cqHEGbE#scrollTo=G3plS9BcUS5w
+
+
+
+
+=======================================================
+grx.us 
+
+- tramsformer
+
+Evaluation metrics
+Training Data - Loss: 0.0017, MAE: 0.0255, MAPE: 6.9180
+Validation Data - Loss: 0.0006, MAE: 0.0187, MAPE: 4.8767
+Test Data - Loss: 0.0002, MAE: 0.0117, MAPE: 3.0283
+
+- tramsformer - moving average
+- 1차 (volumn 에 df_cal 아니라 df로 적용함)
+Evaluation metrics
+Training Data - Loss: 0.0015, MAE: 0.0265, MAPE: 6.1947
+Validation Data - Loss: 0.0007, MAE: 0.0207, MAPE: 4.0275
+Test Data - Loss: 0.0003, MAE: 0.0146, MAPE: 2.7811
+
+- 2차
+Evaluation metrics
+Training Data - Loss: 0.0051, MAE: 0.0504, MAPE: 12.1804
+Validation Data - Loss: 0.0019, MAE: 0.0343, MAPE: 6.4099
+Test Data - Loss: 0.0011, MAE: 0.0268, MAPE: 5.1966
+
+=======================================================
+
