@@ -43,9 +43,9 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
 - 공사완료후 미분양(민간,시도) : unsalenum_c															
 
 </br>
-=========
+========= </br>
 
-</br>
+
 ## Data Cleansing
 
 missing data에 대해 생각할 때 중요한 질문:
