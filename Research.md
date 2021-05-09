@@ -33,8 +33,20 @@
   **data)**
 
   We collected several sources of data for the 8 largest Italian cities: Turin, Milan, Genoa, Bologna, Florence, Rome, Naples, and Palermo.
+  
+- 시계열) Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (2021)
+  - paper: https://arxiv.org/pdf/2012.07436.pdf
+  - git: https://github.com/zhouhaoyi/Informer2020
+  - 참고 논문리뷰 블로그: https://themore-dont-know.tistory.com/4
 
-- 국내 논문
+  **summary)**
+  1. 데이터셋 **여러개**를 사용해서 여러 다른 모델이랑 비교함.
+  2. 
+
+
+![image](https://user-images.githubusercontent.com/49928736/117583605-03d2bd80-b143-11eb-8f16-3a92e5d49a6c.png)
+
+## 국내 논문
 - LSTM 활용
 - http://www.kahps.org/data/_research/201803/15208445162558.pdf (2018)
 
