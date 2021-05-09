@@ -21,6 +21,8 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
 
 2. 외부변수 추가(금리/환율 등)
 3. 정책긍/부정지수 추가
+
+</br>
 =========
 
 - 매매가격지수(시도별): tradeprice_sido_n1
@@ -40,7 +42,10 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
 - 미분양 가구수(시도)	: numberofnosells
 - 공사완료후 미분양(민간,시도) : unsalenum_c															
 
+</br>
 =========
+
+</br>
 ## Data Cleansing
 
 missing data에 대해 생각할 때 중요한 질문:
