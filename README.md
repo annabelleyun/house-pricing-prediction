@@ -21,7 +21,26 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
 
 2. 외부변수 추가(금리/환율 등)
 3. 정책긍/부정지수 추가
+=========
 
+- 매매가격지수(시도별): tradeprice_sido_n1
+- 날짜: date, 연도: year, 월: month
+- 지역코드(시도): region_cd
+- 매매가격지수(시도): tradeprice_sido
+- 부동산타입:	building_type
+- 건설기성액(백만원)	: construction_realized_amount
+- cd 금리	: cd
+- 정기예금금리	: spirit_deposit_rate
+- 환율	: exchange_rate
+- 종합주가지수	: composite_stock_price_index
+- 경제성장률	: economy_growth
+- 국고채3년	: exchequer_bond_three
+- 가계대출액(전국)	: household_loan_all
+- 주택대출액(전국)	: mortgage_all
+- 미분양 가구수(시도)	: numberofnosells
+- 공사완료후 미분양(민간,시도) : unsalenum_c															
+
+=========
 ## Data Cleansing
 
 missing data에 대해 생각할 때 중요한 질문:
