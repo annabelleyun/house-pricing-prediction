@@ -74,3 +74,9 @@ data = grx.us
   Training Data - Loss: 0.0035, MAE: 0.0402, MAPE: 9.9064
   Validation Data - Loss: 0.0018, MAE: 0.0319, MAPE: 6.3062
   Test Data - Loss: 0.0007, MAE: 0.0217, MAPE: 4.1799
+ 
+- LSTM (MV *sigmoid로 activation 변경 O*) ---> **O**
+  Evaluation metrics
+  Training Data - Loss: 0.0016, MAE: 0.0284, MAPE: 6.2995
+  Validation Data - Loss: 0.0007, MAE: 0.0212, MAPE: 3.9715
+  Test Data - Loss: 0.0004, MAE: 0.0160, MAPE: 2.9528
