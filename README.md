@@ -24,6 +24,11 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
 
 ## Data Cleansing
 
+missing data에 대해 생각할 때 중요한 질문:
+
+- missing data가 얼마나 보편적인가?
+- missing data가 랜덤인가? 패턴이 있는가?
+- ROW를 삭제할 것인가 대체할 것인가?
 
 ## Proposed Model
 - Transformer (attention) 기반
@@ -38,6 +43,10 @@ https://roboreport.co.kr/scikit-learn%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97
 - LSTM
 - XGBoost
 - LGBM
+- Transformer + Time2Vec (and & Moving Average)
+- CNN+LSTM (and & Moving Average)
+- BI-LSTM (and & Moving Average)
+- 
 
 ## Training
 
