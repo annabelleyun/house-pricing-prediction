@@ -39,10 +39,15 @@ Validation Data - Loss: 0.0006, MAE: 0.0197, MAPE: 5.0383
 Test Data - Loss: 0.0003, MAE: 0.0135, MAPE: 3.4425
 
 - cnn + bi-lstm
-Evaluation metrics
+Evaluation metrics (checkpoin saved)
 Training Data - Loss: 0.0017, MAE: 0.0256, MAPE: 6.9206
 Validation Data - Loss: 0.0006, MAE: 0.0186, MAPE: 4.8305
 Test Data - Loss: 0.0003, MAE: 0.0120, MAPE: 3.0839
+
+Evaluation metrics (model saved)
+Training Data - Loss: 0.0017, MAE: 0.0258, MAPE: 6.9084
+Validation Data - Loss: 0.0006, MAE: 0.0194, MAPE: 5.0361
+Test Data - Loss: 0.0003, MAE: 0.0120, MAPE: 3.1206
 
 =======================================================
 
