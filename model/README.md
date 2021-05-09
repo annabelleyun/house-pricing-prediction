@@ -8,6 +8,14 @@ https://colab.research.google.com/drive/1lN4V3mC5WYogawsHbdYnue_U1cqHEGbE#scroll
 
 
 
+> Inception 구조 관련한자료:  http://datacrew.tech/inception-v4-2016/ 
+> 
+
+
+MAE, MAPE, 
+
+*Weighted Absolute Percentage Error (WAPE)
+
 
 ======================================================= </br>
 grx.us 
