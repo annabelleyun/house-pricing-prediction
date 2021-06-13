@@ -80,3 +80,9 @@ data = grx.us
   Training Data - Loss: 0.0016, MAE: 0.0284, MAPE: 6.2995
   Validation Data - Loss: 0.0007, MAE: 0.0212, MAPE: 3.9715
   Test Data - Loss: 0.0004, MAE: 0.0160, MAPE: 2.9528
+
+
+
+## hyperparameter
+- timestep ==> 1개월 부동산 예측을 위해서 time step은 분기(3개월)데이터 활용?
+- > 현재 seq_len = 128 or 10 으로 학습함.
